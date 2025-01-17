@@ -1,0 +1,17 @@
+{
+	"haxe.configurations": [
+		[".vscode/completion-openfl.hxml"]
+	],
+	"haxe.diagnosticsPathFilter": "${workspaceRoot}/source",
+    "haxe.taskPresentation": {
+        "echo": true,
+        "reveal": "never",
+        "focus": false,
+        "panel": "shared",
+        "showReuseMessage": true,
+        "clear": false
+    },
+	"search.exclude": {
+		"export/**/*.hx": true
+	}
+}

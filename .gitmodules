@@ -1,0 +1,4 @@
+[submodule "lib"]
+	path = lib
+	url = https://github.com/jacobalbano/HaxePunk.git
+	branch = dev
